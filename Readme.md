@@ -1,21 +1,21 @@
 DDD
 ===================================
 
-[![Packagist](https://img.shields.io/packagist/v/buuum/Ddd.svg)](https://packagist.org/packages/buuum/Ddd)
+[![Packagist](https://img.shields.io/packagist/v/buuum/ddd.svg)](https://packagist.org/packages/buuum/ddd)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](#license)
 
 ## Install
 
 ### System Requirements
 
-You need PHP >= 7.0.0 to use Buuum\Ddd but the latest stable version of PHP is recommended.
+You need PHP >= 7.0.0 to use Buuum\ddd but the latest stable version of PHP is recommended.
 
 ### Composer
 
-Buuum\Ddd is available on Packagist and can be installed using Composer:
+Buuum\ddd is available on Packagist and can be installed using Composer:
 
 ```
-composer require buuum/Ddd
+composer require buuum/ddd
 ```
 
 ### Manually
