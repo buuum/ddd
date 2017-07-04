@@ -1,0 +1,27 @@
+{
+    "name": "buuum/Ddd",
+    "type": "library",
+    "description": "Ddd",
+    "homepage": "https://github.com/buuum/Ddd",
+    "keywords": [
+        "ddd"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfons Martinez",
+            "email": "alfonsmartinezparra@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ddd\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
