@@ -54,6 +54,11 @@ class DomainEventPublisher
         unset($this->subscribers[$id]);
     }
 
+    public function unsubscribeAll()
+    {
+        $this->subscribers = [];
+    }
+
     public function publish(DomainEvent $aDomainEvent)
     {
         foreach ($this->subscribers as $aSubscriber) {
